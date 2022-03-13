@@ -1,0 +1,312 @@
+.primer-sub {
+  width: 25%;
+  height: 25%;
+  right: 50%;
+  left: 5%;
+  top: 13%;
+  position: absolute;
+}
+
+.primer-p {
+  width: 25%;
+  height: 35%;
+  right: 50%;
+  left: 5%;
+  position: absolute;
+  top: 27%;
+}
+
+.img {
+  max-width: 100%;
+  max-height: 50%;
+  max-block-size: 100%;
+  right: 5%;
+  left: 50%;
+  top: 12%;
+  position: absolute;
+  object-fit: contain;
+  display: flex;
+}
+
+.boton {
+  left: 85%;
+  position: absolute;
+  top: 12px;
+}
+
+.datos {
+  left: 70%;
+  position: absolute;
+  top: 15px;
+}
+
+.educacion {
+  left: 60%;
+  position: absolute;
+  top: 15px;
+}
+
+.noticias {
+  left: 50%;
+  position: absolute;
+  top: 15px;
+}
+
+.regulaciones {
+  left: 40%;
+  position: absolute;
+  top: 15px;
+}
+
+.vacuna {
+  left: 6%;
+  position: absolute;
+  top: 10px;
+  font-size: 24px;
+}
+
+.a1 {
+  position: absolute;
+  max-width: 25%;
+  max-height: 40%;
+  max-block-size: 100%;
+  top: 80%;
+  left: 5%;
+}
+
+.a2 {
+  position: absolute;
+  max-width: 25%;
+  max-height: 40%;
+  max-block-size: 100%;
+  top: 82%;
+  left: 26%;
+}
+
+.a3 {
+  position: absolute;
+  max-width: 25%;
+  max-height: 40%;
+  max-block-size: 100%;
+  top: 80%;
+  left: 49%;
+}
+
+.a4 {
+  position: absolute;
+  max-width: 25%;
+  max-height: 40%;
+  max-block-size: 100%;
+  top: 80%;
+  left: 75%;
+}
+
+.h2 {
+  width: 25%;
+  height: 25%;
+  right: 50%;
+  left: 5%;
+  top: 120%;
+  position: absolute;
+}
+
+.p2 {
+  width: 25%;
+  height: 35%;
+  right: 50%;
+  left: 5%;
+  position: absolute;
+  top: 135%;
+}
+
+.c-1 {
+  position: absolute;
+  top: 155%;
+}
+
+.c-2 {
+  position: absolute;
+  top: 155%;
+  left: 25%;
+  width: 100px;
+}
+
+.c-3 {
+  position: absolute;
+  top: 155%;
+  left: 50%;
+}
+
+.c-4 {
+  position: absolute;
+  top: 155%;
+  left: 75%;
+}
+
+.i1 {
+  max-width: 40px;
+  max-height: 40px;
+  position: absolute;
+  left: 5%;
+}
+
+.i2 {
+  max-width: 40px;
+  max-height: 40px;
+  position: absolute;
+  left: 5%;
+}
+
+.i3 {
+  max-width: 40px;
+  max-height: 40px;
+  position: absolute;
+  left: 5%;
+}
+
+.i4 {
+  max-width: 40px;
+  max-height: 40px;
+  position: absolute;
+  left: 5%;
+}
+
+.hi1 {
+  position: absolute;
+  top: 50px;
+  left: 5%;
+}
+
+.pi1 {
+  position: absolute;
+  top: 90px;
+  left: 5%;
+}
+
+.hi2 {
+  position: absolute;
+  top: 50px;
+  left: 5%;
+}
+
+.pi2 {
+  position: absolute;
+  top: 90px;
+  left: 5%;
+}
+
+.hi3 {
+  position: absolute;
+  top: 50px;
+  left: 5%;
+}
+
+.pi3 {
+  position: absolute;
+  top: 90px;
+  left: 5%;
+}
+
+.hi4 {
+  position: absolute;
+  top: 50px;
+  left: 5%;
+}
+
+.pi4 {
+  position: absolute;
+  top: 90px;
+  left: 5%;
+}
+
+.h3 {
+  width: 25%;
+  height: 25%;
+  right: 50%;
+  left: 55%;
+  top: 200%;
+  position: absolute;
+}
+
+.p3 {
+  width: 35%;
+  height: 10%;
+  right: 50%;
+  left: 55%;
+  position: absolute;
+  top: 215%;
+}
+
+.acordion {
+  position: absolute;
+  top: 233%;
+  left: 55%;
+}
+
+.img2 {
+  max-width: 80%;
+  max-height: 90%;
+  max-block-size: 70%;
+  left: 15px;
+  top: 200%;
+  position: absolute;
+  object-fit: contain;
+  display: flex;
+}
+
+.h4 {
+  width: 25%;
+  height: 25%;
+  right: 50%;
+  left: 5%;
+  top: 280%;
+  position: absolute;
+}
+
+.p4 {
+  width: 35%;
+  height: 10%;
+  right: 50%;
+  left: 5%;
+  position: absolute;
+  top: 290%;
+}
+
+.carto1 {
+  position: absolute;
+  top: 315%;
+}
+
+.carto2 {
+  position: absolute;
+  top: 315%;
+  left: 17%;
+}
+
+.carto3 {
+  position: absolute;
+  top: 340%;
+}
+
+.carto4 {
+  position: absolute;
+  top: 340%;
+  left: 17%;
+}
+
+.img4 {
+  max-width: 100%;
+  max-height: 50%;
+  max-block-size: 100%;
+  right: 5%;
+  left: 50%;
+  top: 300%;
+  position: absolute;
+  object-fit: contain;
+  display: flex;
+}
+
+.pie {
+  position: absolute;
+  top: 420%;
+}
